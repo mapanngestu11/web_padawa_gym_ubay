@@ -1,0 +1,4 @@
+[03-Mar-2023 13:36:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 13:37:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'panx8655_user_pandawa'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 13:37:14 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'panx8655_user_pandawa'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 13:37:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'panx8655_user_pandawa'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14

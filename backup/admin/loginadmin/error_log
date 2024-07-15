@@ -1,0 +1,86 @@
+[03-Mar-2023 11:14:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 11:20:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 11:26:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 11:45:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 11:48:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 11:48:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 11:49:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 11:52:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 12:29:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 13:34:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panx8655/public_html/admin/koneksi/koneksi.php on line 14
+[03-Mar-2023 21:31:11 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[03-Mar-2023 21:31:11 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[03-Mar-2023 21:31:11 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[03-Mar-2023 21:31:11 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:28 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:28 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:28 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:28 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:29 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:31 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:31 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:31 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:31 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:37 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[05-Mar-2023 23:01:37 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:37 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[05-Mar-2023 23:01:37 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[11-Mar-2023 01:15:42 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 4
+[11-Mar-2023 01:15:42 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[11-Mar-2023 01:15:42 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[11-Mar-2023 01:15:42 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/panx8655/public_html/pandawagym/admin/loginadmin/aksilogin.php on line 5
+[06-Jul-2024 09:08:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 14
+[06-Jul-2024 09:09:44 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 14
+[06-Jul-2024 09:10:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'panf633_user_pandawagym'@'localhost' (using password: NO) in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 14
+[06-Jul-2024 09:16:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 14
+[06-Jul-2024 09:17:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 14
+[06-Jul-2024 09:22:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'panf6331_user_pandawagym'@'localhost' (using password: NO) in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 14
+[06-Jul-2024 09:25:13 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:25:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'panf6331_user_pandawagym'@'localhost' to database 'panf6331_pandawagym' in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:27:06 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:27:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'panf6331_user_pandawagym'@'localhost' to database 'panf6331_pandawagym' in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:27:30 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:27:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'panf6331_user_pandawagym'@'localhost' to database 'panf6331_pandawagym' in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:27:34 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:27:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'panf6331_user_pandawagym'@'localhost' to database 'panf6331_pandawagym' in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:28:16 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:28:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:28:50 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:28:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'panf6331_user_pandawagym'@'localhost' to database 'panf6331_pandawagym' in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:30:14 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:30:25 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:37:52 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 09:52:37 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 10:02:09 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 10:14:38 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 10:27:56 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 13:25:35 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 17:08:00 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 17:41:08 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 17:42:25 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 18:50:59 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 19:01:36 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
+[06-Jul-2024 19:06:11 Asia/Jakarta] PHP Notice:  Undefined variable: host in /home/panf6331/public_html/admin/koneksi/koneksi.php on line 17
